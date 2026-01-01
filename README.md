@@ -1,6 +1,7 @@
 👋 Hi, I’m Akhil
 I’m an IT Product Manager & Product Owner 🧭 who believes in Vibe Coding ⚡ — move fast, stay grounded, ship things that work in the real world.
-I’ve led successful production deployments, including LMVFS.in 🏦 — a web-based CRM for financial services. I owned the product end-to-end 🔁: requirements 📋, architecture 🏗️, delivery 🚢, and iteration 🔧 in live environments.
+I’ve led successful production deployments, including LMVFS.in 🏦 — a web-based CRM for financial services.
+I owned the product end-to-end 🔁: requirements 📋, architecture 🏗️, delivery 🚢, and iteration 🔧 in live environments.
 
 🛠️ What I Build With
 lovable.dev 💖 for rapid UI and workflow execution
